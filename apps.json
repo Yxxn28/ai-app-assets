@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "apps": {
+    "ai-test-app": {
+      "enabled": true,
+      "payload": "payloads/ai-test-app.enc"
+    }
+  }
+}
