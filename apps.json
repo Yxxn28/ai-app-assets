@@ -2,7 +2,7 @@
   "version": 1,
   "apps": {
     "ai-test-app": {
-      "enabled": false,
+      "enabled": true,
       "payload": "payloads/ai-test-app.enc"
     }
   }
