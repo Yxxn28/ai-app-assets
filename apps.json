@@ -3,7 +3,7 @@
   "apps": {
     "ai-test-app": {
       "enabled": true,
-      "payload": "payloads/ai-test-app-v2.enc"
+      "payload": "payloads/ai-test-app-v3.enc"
     }
   }
 }
