@@ -3,7 +3,9 @@
   "apps": {
     "ai-test-app": {
       "enabled": true,
-      "payload": "payloads/ai-test-app-v3.enc"
+      "name": "レアネクロス",
+      "displayName": "RARE N×CROSS",
+      "payload": "payloads/rarencross-v5.enc"
     }
   }
 }
