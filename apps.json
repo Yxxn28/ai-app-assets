@@ -6,6 +6,12 @@
       "name": "レアネクロス",
       "displayName": "RARE N×CROSS",
       "payload": "payloads/rarencross-v6.enc"
+    },
+    "new-game": {
+      "enabled": true,
+      "name": "スキルマイン",
+      "displayName": "SKILLMINE",
+      "payload": "payloads/new-game-v1.enc"
     }
   }
 }
