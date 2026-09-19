@@ -18,6 +18,12 @@
       "name": "漂流拠点",
       "displayName": "MIST HAVEN",
       "payload": "payloads/mist-haven-v1.enc"
+    },
+    "ohanashi-seven": {
+      "enabled": true,
+      "name": "おはなしセブン",
+      "displayName": "おはなしセブン",
+      "payload": "payloads/ohanashi-seven-v1.enc"
     }
   }
 }
