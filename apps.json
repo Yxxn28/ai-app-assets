@@ -24,6 +24,12 @@
       "name": "おはなしセブン",
       "displayName": "おはなしセブン",
       "payload": "payloads/ohanashi-seven-v1.enc"
+    },
+    "memo-todo": {
+      "enabled": true,
+      "name": "メモと、やること。",
+      "displayName": "メモと、やること。",
+      "payload": "payloads/memo-todo-v1.enc"
     }
   }
 }
